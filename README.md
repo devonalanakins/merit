@@ -4,7 +4,7 @@
 
 > **Repository status · November 3, 2026:** The default branch contains a source-only engineering toolkit. Independent production verification, autonomous approval and deployment integration are not claimed.
 
-[Architecture](docs/ARCHITECTURE.md) · [Trust boundaries](docs/RELEASE-GATES.md) · [Security](SECURITY.md)
+[Architecture](docs/ARCHITECTURE.md) · [Trust boundaries](docs/RELEASE-GATES.md) · [Pre-merge checklist](docs/PRE-MERGE-CHECKLIST.md) · [Security](SECURITY.md)
 
 > **Status:** v0.3.0 standalone, source-only engineering core with bounded read-only GitHub API evidence observation. Source is published in the dedicated GitHub repository; live GitHub API acceptance, autonomous security certification, production release integration, and deployment are not implemented.
 
